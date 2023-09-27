@@ -3,8 +3,8 @@ Config = {}
 Config.Job = 'burgershot'
 Config.ProgressbarTime = 5000
 Config.Dirt = 10
-Config.SmallBagSellPrice = 2500
-Config.BigBagSellPrice = 5000
+Config.SmallBagSellPrice = 65
+Config.BigBagSellPrice = 130
 Config.CarSpawnCoord = vector4(-1164.57, -891.6, 14.1, 121.93)
 Config.Car = "nspeedo"
 Config.SmallBagItem = 'burgershot_bagsmall' 
@@ -120,119 +120,119 @@ Config.Shop = {
             name = "burgershot_tomato",
             amount = 10,
             type = "item",
-            price = 200,
+            price = 2,
             slot = 1,
         },
         {
             name = "burgershot_cheddar",
             amount = 10,
             type = "item",
-            price = 200,
+            price = 2,
             slot = 2,
         },
         {
             name = "burgershot_curly",
             amount = 10,
             type = "item",
-            price = 200,
+            price = 2,
             slot = 3,
         },
         {
             name = "burgershot_sauce",
             amount = 10,
             type = "item",
-            price = 200,
+            price = 2,
             slot = 4,
         },
         {
             name = "burgershot_bread",
             amount = 10,
             type = "item",
-            price = 200,
+            price = 2,
             slot = 5,
         },
         {
             name = "burgershot_lavash",
             amount = 10,
             type = "item",
-            price = 200,
+            price = 2,
             slot = 6,
         },
         {
             name = "burgershot_bigcardboard",-----
             amount = 10,
             type = "item",
-            price = 200,
+            price = 2,
             slot = 7,
         },
         {
             name = "burgershot_smallcardboard",
             amount = 10,
             type = "item",
-            price = 200,
+            price = 2,
             slot = 8,
         },
         {
             name = "burgershot_bigemptyglass",
             amount = 10,
             type = "item",
-            price = 200,
+            price = 2,
             slot = 9,
         },
         {
             name = "burgershot_smallemptyglass",
             amount = 10,
             type = "item",
-            price = 200,
+            price = 2,
             slot = 10,
         },
         {
             name = "burgershot_coffeeemptyglass",
             amount = 10,
             type = "item",
-            price = 200,
+            price = 2,
             slot = 11,
         },
         {
             name = "burgershot_frozenmeat",
             amount = 10,
             type = "item",
-            price = 200,
+            price = 2,
             slot = 12,
         },
         {
             name = "burgershot_frozenrings",
             amount = 10,
             type = "item",
-            price = 200,
+            price = 2,
             slot = 13,
         },
         {
             name = "burgershot_frozennuggets",
             amount = 10,
             type = "item",
-            price = 200,
+            price = 2,
             slot = 14,
         },
         {
             name = "burgershot_smallfrozenpotato",
             amount = 10,
             type = "item",
-            price = 200,
+            price = 2,
             slot = 15,
         },
         {
             name = "burgershot_bigfrozenpotato",
             amount = 10,
             type = "item",
-            price = 200,
+            price = 2,
             slot = 16,
         },
         {
             name = "burgershot_icecreamcone",
             amount = 10,
             type = "item",
-            price = 200,
+            price = 2,
             slot = 17,
         },
     }

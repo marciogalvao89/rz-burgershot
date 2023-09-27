@@ -1146,8 +1146,4 @@ Citizen.CreateThread(function()
     EndTextCommandSetBlipName(blip)
 end)
 
-RegisterCommand("try", function()
-    client = true
-    onDuty = true
-    status = true
-end)
+
